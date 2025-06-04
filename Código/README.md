@@ -1,5 +1,5 @@
 #########################
-### Instalação Manual ###
+    ### Instalação Manual ###
 ######################### 
 
 1) Para executar o aplicativo é necessário ter instalado o Ionic, para isso siga as instruções no site: https://ionicframework.com/docs/intro/cli
